@@ -1,2 +1,0 @@
-# .aiwomen.org
-aiwomen.org
